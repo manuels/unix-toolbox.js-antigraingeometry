@@ -25,6 +25,8 @@
 #ifndef AGG_BASICS_INCLUDED
 #define AGG_BASICS_INCLUDED
 
+#undef _MSC_VER
+
 #include <math.h>
 #include "agg_config.h"
 
